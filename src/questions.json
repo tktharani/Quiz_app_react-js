@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "question":"What is the Capital of India?",
+        "options":["NewDelhi","Chennai","Bangalore","China"],
+        "correctOption":"NewDelhi"
+    },
+    {
+        "id":2,
+        "question":"which standard study in vihan?",
+        "options":["1","2","3","4"],
+        "correctOption":"1"
+    },
+    {
+        "id":3,
+        "question":"which standard study in navirasri? ",
+        "options":["1","2","3","4"],
+        "correctOption":"4"
+    }
+]
